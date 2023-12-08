@@ -1,0 +1,17 @@
+package interfaceEx;
+
+public class LibaEx {
+
+	public static void main(String[] args) {
+		
+LibA liba = new LibA();
+		
+liba.forStart();
+		
+liba.forCharacter("로또당첨");
+		
+liba.forSomethingDo(liba);
+		 
+		
+	}
+}

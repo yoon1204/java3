@@ -1,0 +1,17 @@
+package interfaceEx;
+
+public class LibaEx {
+
+	public static void main(String[] args) {
+		
+LibA libA = new LibA();
+		
+		libA.forStart();
+		
+		libA.forCharacter("이윤");
+		
+		libA.forSomethingDo();
+		 
+		
+	}
+}
